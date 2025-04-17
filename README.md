@@ -1,8 +1,10 @@
 # MotorPasoAPasoNAPO
-# 🚀 Control de Motor Paso a Paso con Arduino Nano
+# Control de Motor Paso a Paso con Arduino
 
 **Facultad de Ciencias y Tecnología - Universidad San Francisco Xavier de Chuquisaca (USFX)**
+
 **Noelia Alejandra Párraga Ortuzte**  
+
 **Ingeniería en Telecomunicaciones**  
 
 ---
