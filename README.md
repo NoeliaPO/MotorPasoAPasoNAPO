@@ -72,7 +72,7 @@ El sistema permite controlar el giro del motor paso a paso en intervalos de 90°
 ## 🔁 Funcionamiento del Sistema
 
 <p align="center">
-  <img src="assets/Funcionamiento.mp4" alt="Funcionamiento del motor" width="500"/>
+  <img src="assets/Funcionamiento.gif" alt="Funcionamiento del motor" width="500"/>
 </p>
 
 ---
