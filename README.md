@@ -39,7 +39,7 @@ El sistema permite controlar el giro del motor paso a paso en intervalos de 90°
 
 ## 🔌 Conexión de Pines
 
-### 🧾 Diagrama de Conexión (Texto)
+### 🧾 Diagrama de Conexión
 
 | Componente         | Conexiones     | Conecta a Arduino | Nota                             |
 |--------------------|----------------|-------------------|----------------------------------|
