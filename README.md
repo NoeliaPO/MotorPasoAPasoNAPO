@@ -54,7 +54,7 @@ El sistema permite controlar el giro del motor paso a paso en intervalos de 90°
 ## 💻 Diagrama de Conexión
 
 <p align="center">
-  <img src="assets/Diagrama.png" alt="Diagrama de conexión" width="500"/>
+  <img src="assets/Diagrama.jfif" alt="Diagrama de conexión" width="500"/>
 </p>
 
 ---
@@ -62,9 +62,9 @@ El sistema permite controlar el giro del motor paso a paso en intervalos de 90°
 ## 🛠️ Montaje en Laboratorio
 
 <p align="center">
-  <img src="assets/Montaje.png" alt="Montaje físico" width="400"/>
+  <img src="assets/Montaje.jpeg" alt="Montaje físico" width="400"/>
   <br><br>
-  <img src="assets/Armado.png" alt="Vista del armado" width="400"/>
+  <img src="assets/Armado.jpeg" alt="Vista del armado" width="400"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@ El sistema permite controlar el giro del motor paso a paso en intervalos de 90°
 ## 🔁 Funcionamiento del Sistema
 
 <p align="center">
-  <img src="assets/Funcionamiento.gif" alt="Funcionamiento del motor" width="500"/>
+  <img src="assets/Funcionamiento.mp4" alt="Funcionamiento del motor" width="500"/>
 </p>
 
 ---
